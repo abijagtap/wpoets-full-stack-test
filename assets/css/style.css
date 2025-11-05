@@ -275,7 +275,7 @@ body {
     color: #fff;
     text-align: center;
     position: relative;
-    min-height: 400px;
+    min-height: 250px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -314,6 +314,7 @@ body {
     margin-top: 1rem;
     display: inline-block;
   }
+
 }
 
 /* Tablet */
